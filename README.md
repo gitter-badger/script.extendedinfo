@@ -8,6 +8,8 @@ Example:
 
 ##Rotten Tomatoes
 
+[![Join the chat at https://gitter.im/phil65/script.extendedinfo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/phil65/script.extendedinfo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Run:
 RunScript(script.extendedinfo,info=intheaters)          --> InTheatersMovies.%d.xxx
 RunScript(script.extendedinfo,info=comingsoon)          --> ComingSoonMovies.%d.xxx
